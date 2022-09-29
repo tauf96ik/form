@@ -135,7 +135,7 @@ class _MyHomePageState extends State<MyHomePage> {
                   },
                 ),
               ),
-              /* Padding(
+              Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 8, vertical: 16),
                 child: Column(children: <Widget>[
@@ -188,7 +188,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     print(newValue);
                   },
                 ),
-              ), */
+              ),
               Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 8, vertical: 16),
