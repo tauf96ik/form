@@ -59,7 +59,7 @@ class _MyHomePageState extends State<MyHomePage> {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              /* const Padding(
+              const Padding(
                 padding: EdgeInsets.symmetric(horizontal: 8, vertical: 10),
                 child: TextField(
                   decoration: InputDecoration(
@@ -67,7 +67,7 @@ class _MyHomePageState extends State<MyHomePage> {
                     hintText: 'Enter a Text',
                   ),
                 ),
-              ), */
+              ),
               Padding(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 8, vertical: 16),
